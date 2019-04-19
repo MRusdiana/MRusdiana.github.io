@@ -21,4 +21,6 @@ img {
 
 footer, li {
 				text-align: center;
+                                height: 20px;
+                                width: 20px;
 }
