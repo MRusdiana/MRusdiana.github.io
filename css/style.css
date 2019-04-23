@@ -23,4 +23,7 @@ footer, li {
 				text-align: center;
                                 
 }
+li {
+	style-type: none;
+}
 
